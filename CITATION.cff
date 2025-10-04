@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Adaptive π Hypothesis — Adaptive Critical Symmetry Law (ACSL) Release
+message: If you use this software, please cite this release.
+type: software
+authors:
+  - family-names: McKenna
+    given-names: Ryan
+    affiliation: AdaptiveCAD / RDM3DC
+repository-code: https://github.com/RDM3DC/Adaptive-Pi-Hypothesis
+version: v1.0.0
+date-released: 2025-10-04
+license: MIT
